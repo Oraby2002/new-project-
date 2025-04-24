@@ -10,4 +10,4 @@ how to list tags: git tag
 delete tag locally  : git tag -d  v1.7  
 delete tag  remotely : git tag --delete  origin v1.7
 
-![My Image](ChatGPT Image Apr 22, 2025, 04_43_39 PM.png)
+![My Image](imge.png)
